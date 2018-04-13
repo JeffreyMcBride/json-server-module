@@ -1,6 +1,6 @@
 const port = 3005;
-const data_file_path = 'food-short.json';
-const json_spaces = 2;
+const data_file_path = 'foodPlate.json';
+const json_spaces = 0;
 
 const jsonServer = require('json-server');
 const server = jsonServer.create();
